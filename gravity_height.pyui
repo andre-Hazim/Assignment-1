@@ -1,0 +1,88 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{20, 14}, {465, 43}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "instruction_label",
+          "frame" : "{{208, 212}, {150, 32}}",
+          "uuid" : "AB406ABB-4FED-4EE3-B7CB-2B913FFDFCFD",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Input number of seconds since the object was dropped",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 65}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "seconds_textfield",
+          "frame" : "{{183, 212}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "678E41B2-7219-45E9-8F99-481139C3728C",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{30, 118}, {130, 64}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{243, 212}, {80, 32}}",
+          "title" : "Calculate",
+          "uuid" : "BFE64AC0-2DB6-4C4D-840D-3D72094FCA58",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 31
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 215}, {521, 71}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "answer_label",
+          "frame" : "{{208, 212}, {150, 32}}",
+          "uuid" : "0A2A492D-6FA3-4288-AFA5-F8AEAC979B7B",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "The height of the object above the ground is:  ",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {566, 456}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
