@@ -1,0 +1,302 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, -23}, {699, 501}}",
+        "class" : "ImageView",
+        "attributes" : {
+          "flex" : "",
+          "border_width" : 0,
+          "alpha" : 0.69999999999999996,
+          "frame" : "{{293, 189}, {100, 100}}",
+          "uuid" : "1A6BD905-76D9-46B0-8433-85EC2720BE55",
+          "corner_radius" : 0,
+          "class" : "ImageView",
+          "name" : "background_image"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 28}, {198, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "5A52A8FA-706B-4D6D-A797-104F6E449B91",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "The Dealer’s cards are ",
+          "name" : "dealer_label",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 81}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "CB1A11C1-21FE-49E9-87F5-FD85AF501B45",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "dealer_card_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 81}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "CB1A11C1-21FE-49E9-87F5-FD85AF501B45",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "dealer_card2_label"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 121}, {451, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "5A52A8FA-706B-4D6D-A797-104F6E449B91",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Your cards are ",
+          "font_size" : 18,
+          "name" : "player_label"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 161}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "C378E69F-7EBE-421F-84BF-93CCE2FA339F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "player_card_one_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{250, 159}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "C378E69F-7EBE-421F-84BF-93CCE2FA339F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "player_card_two_label"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 290}, {451, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "player_choice_card_label",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "C378E69F-7EBE-421F-84BF-93CCE2FA339F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 241}, {451, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "863A8DE1-B2DD-4F45-A894-367F196AAE61",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "extra_card_choice_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 201}, {451, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "A689B9A7-6A74-4867-A1B8-D0A0C3B7756F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "choice_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{27, 330}, {188, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "player_cards_touch_up_inside",
+          "frame" : "{{303, 223}, {80, 32}}",
+          "title" : "Click for your two cards",
+          "uuid" : "8EFF9A34-F718-41AA-9482-D895E72704D5",
+          "class" : "Button",
+          "name" : "player’s_two_cards_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{230, 330}, {186, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "add_another_card_touch_up_inside",
+          "frame" : "{{303, 223}, {80, 32}}",
+          "title" : "Click me for an extra card",
+          "uuid" : "6F905C05-3EDF-4DFF-874D-5804C69E4EDC",
+          "class" : "Button",
+          "name" : "extra_card_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{445, 330}, {80, 40}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "check_button_touch_up_inside",
+          "frame" : "{{303, 223}, {80, 32}}",
+          "title" : "Check",
+          "uuid" : "910D52E2-E9BF-4A37-91B7-D4D09C14BE1C",
+          "class" : "Button",
+          "name" : "check_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 440}, {315, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "6031C388-6D2E-4CBB-82EF-EFCEB2044414",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "win_or_lose_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{44, 385}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "CD4E42C5-A758-4614-9067-7531F4D58371",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "player_total_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{230, 385}, {198, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{268, 223}, {150, 32}}",
+          "uuid" : "CD4E42C5-A758-4614-9067-7531F4D58371",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "name" : "dealer_total_label"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {686, 478}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
